@@ -1,0 +1,4 @@
+Java,80
+Foundation,64
+PST,30
+Sellenium,60

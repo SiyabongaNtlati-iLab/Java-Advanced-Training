@@ -7,8 +7,6 @@ package Chapter7.inheritance;
  **/
 public class EmployeeRunner {
     public static void main(String[] args){
-        Employee emp = new Employee();
-
-        PermanentEmployee
+        //Employee emp = new Employee();
     }
 }
