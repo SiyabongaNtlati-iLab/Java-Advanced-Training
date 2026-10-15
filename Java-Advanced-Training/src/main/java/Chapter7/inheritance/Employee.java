@@ -10,7 +10,7 @@ public class Employee {
     private String Name;
     private String email;
 
-    public employee(String empNum, String Name, String email){
+    public Employee(String empNum, String Name, String email){
         this.empNum = empNum;
         this.Name = Name;
         this.email = email;
